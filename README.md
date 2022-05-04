@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Thanks for viewing my Github profile.</h1>
+<h1 align="center">Hi 👋, Thanks for viewing my profile.</h1>
 <h3 align="center">A passionate full stack Web | Blockchain Developer</h3>
 <h3 align="center">Experienced full-stack developer with extensive knowledge of OOP and design patterns.
 Specializes in creating complex web services using modern tech stacks like Node.js and PHP/Laravel as well as Blockchain.
