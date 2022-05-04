@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Oasis Dream</h1>
+<h1 align="center">Hi 👋, Thanks for viewing my Github profile.</h1>
 <h3 align="center">A passionate full stack Web | Blockchain Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oasisdev117&label=Profile%20views&color=0e75b6&style=flat" alt="oasisdev117" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oasisdev117" alt="oasisdev117" /></a> </p>
-
 - 📫 How to reach me **oasiscrypto117@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">Email : **oasiscrypto117@gmail.com**</p>
+<p align="left">Skype : **live:.cid.c366052d16ede5ff**</p>
+<p align="left">Telegram : **https://t.me/OasisDev**</p>
+
 <p align="left">
 </p>
 
