@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oasisdev117&label=Profile%20views&color=0e75b6&style=flat" alt="oasisdev117" /> </p>
 
-- 📫 How to reach me **oasiscrypto117@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">Email : **oasiscrypto117@gmail.com**</p>
 <p align="left">Skype : **live:.cid.c366052d16ede5ff**</p>
