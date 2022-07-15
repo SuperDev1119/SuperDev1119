@@ -1,15 +1,4 @@
 <h1 align="center">Hi 👋, Thanks for viewing my profile.</h1>
-<h3 align="center">A passionate full stack Web | Blockchain Developer</h3>
-<h3 align="center">Experienced full-stack developer with extensive knowledge of OOP and design patterns.
-Specializes in creating complex web services using modern tech stacks like Node.js and PHP/Laravel as well as Blockchain.
-Has over 10+ years of experience as well as a bachelor's degree in computer science.
-</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oasisdev117&label=Profile%20views&color=0e75b6&style=flat" alt="oasisdev117" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">Email : oasiscrypto117@gmail.com</p>
-<p align="left">Skype : live:.cid.c366052d16ede5ff</p>
-<p align="left">Telegram : https://t.me/OasisDev</p>
 
 <p align="left">
 </p>
